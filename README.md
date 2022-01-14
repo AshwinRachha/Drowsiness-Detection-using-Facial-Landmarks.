@@ -3,7 +3,7 @@
 Deep learning today has revolutionized a gamut of industries with the Autonomous Vehicle industry being the prime one which derives most benefit from this recently famous algorithm. We see deep learning in applied in Computer Vision which forms the backbone of the modern self driving cars, in Natural language processing where it has made tremendous progress in understanding human language and deriving insights from them and in various other spectrums. 
 
 <p align="center">
-  <img src="https://www.compliancesigns.com/media/catalog/product/o/s/osha-accident-prevention-sign-obe-1350_1000_5.gif" alt="centered image" class = "center" width="600"/>
+  <img src="https://www.compliancesigns.com/media/catalog/product/o/s/osha-accident-prevention-sign-obe-1350_1000_5.gif" alt="centered image" class = "center" width="400"/>
 </p>
 
 In the modern machinery of self driving and the aim of making cars more safe to be driven, almost all provisions have been made to make THE VEHICLE safe but what about the safety 
